@@ -26,17 +26,7 @@
 
 ## 预览
 
-<figure class="third">
-    <img src="https://i.imgur.com/XAW5nm7.jpg" width="262">
-    <img src="https://i.imgur.com/LWAMBfu.jpg" width="262">
-    <img src="https://i.imgur.com/1i1BNY1.jpg" width="262">
-</figure>
-
-<figure class="third">
-    <img src="https://i.imgur.com/cNmxQes.jpg" width="262">
-    <img src="https://i.imgur.com/4VXGJFD.jpg" width="262">
-    <img src="https://i.imgur.com/SAhjf7L.jpg" width="262">
-</figure>
+![](https://i.imgur.com/m4abg72.png)
 
 ------
 
