@@ -1,0 +1,4 @@
+<!--pages/web-views/web-views.wxml-->
+<!-- <text>pages/web-views/web-views.wxml</text> -->
+<!--  -->
+<web-view src="https://{{url}}"></web-view>

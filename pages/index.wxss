@@ -1,0 +1,46 @@
+/* pages/index.wxss */
+.page {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+/* 修改首页坐标样式 */
+.button_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.button {
+  width: 145rpx;
+  height: 145rpx;
+  margin: 20px;
+  /* background-color: rgb(0, 33, 71); */
+  background-color: #002147;
+  border-radius: 80rpx;
+  display: flex;
+  justify-content: center;
+}
+
+.button text {
+  width: 55%;
+  align-self: center;
+  text-align: center;
+}
+
+.copyright {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+  font-size: 27rpx;
+  text-align: center;
+  line-height: 150%;
+  text-shadow:#000 1rpx 0 0,#000 0 1rpx 0,#000 -1rpx 0 0,#000 0 -1rpx 0;
+}
